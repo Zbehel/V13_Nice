@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 
 
 # Load data
-df = pd.read_csv('C:/Users/zacbe/Downloads/Janna/Datasets/Paris/#v13.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/zacbe/master/#v13.csv')
 mapbox_access_token = 'pk.eyJ1IjoiemFjYmUiLCJhIjoiY2xmcTI4OTdqMGgydjNwb2JwbmM0MXVmNCJ9.JZRdgKda-OfvCP-dpK5zvA'
 
 # Create app
